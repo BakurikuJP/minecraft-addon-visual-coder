@@ -1,5 +1,11 @@
 # addon-visual-coder
 
+## Disclaimer
+
+This project is unofficial and is not affiliated with, endorsed by, sponsored by, or approved by Mojang or Microsoft.
+
+This project is a third-party visual coding tool for creating add-ons for Minecraft, and all Minecraft-related names, brands, and assets remain the property of their respective owners.
+
 ## 日本語
 
 Minecraft アドオンを視覚的に制作するための、Blockly / React / TypeScript ベースのビジュアルエディタです。
